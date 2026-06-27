@@ -110,15 +110,15 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Assets/Screenshots/1.png" width="160"/>
-  <img src="Assets/Screenshots/2.png" width="160"/>
-  <img src="Assets/Screenshots/3.png" width="160"/>
+  <img src="Assets/Screenshots/1.png" width="200"/>
+  <img src="Assets/Screenshots/2.png" width="200"/>
+  <img src="Assets/Screenshots/3.png" width="200"/>
 </p>
 
 <p align="center">
-  <img src="Assets/Screenshots/4.png" width="160"/>
-  <img src="Assets/Screenshots/5.png" width="160"/>
-  <img src="Assets/Screenshots/6.png" width="160"/>
+  <img src="Assets/Screenshots/4.png" width="200"/>
+  <img src="Assets/Screenshots/5.png" width="200"/>
+  <img src="Assets/Screenshots/6.png" width="200"/>
 </p>
 
 ---
