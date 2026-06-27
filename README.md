@@ -126,7 +126,7 @@
 ## 🎬 Gameplay Preview
 
 <p align="center">
-  <img src="Assets/Gameplay/Gameplay.gif" width="360"/>
+  <img src="Assets/Gameplay/Gif.gif" width="360"/>
 </p>
 
 ---
