@@ -151,7 +151,9 @@
 - GridManager  
 - AbilityManager  
 - PlayerMovement  
-- EasyAI  
+- EasyAI
+- MediumAI
+- HardAI  
 - Tile  
 
 ---
